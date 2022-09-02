@@ -115,7 +115,7 @@ footer{
   
     align-items: center;
   text-align: center;
-  background-image: url('https://cdn.dribbble.com/users/2660249/screenshots/6664064/comp_1.gif');
+  background: url('comp_1.gif') no-repeat center;
   background-attachment: fixed;
   background-size: 100%;
   
