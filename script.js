@@ -92,3 +92,22 @@ if (b3==b5 && b5==b7 && b3 !=''){
     
   }
 }
+function reset()
+{
+        document.getElementById('butao1').innerText = ''
+        document.getElementById('butao2').innerText = ''
+        document.getElementById('butao3').innerText = ''
+        document.getElementById('butao4').innerText = ''
+        document.getElementById('butao5').innerText = ''
+        document.getElementById('butao6').innerText = ''
+        document.getElementById('butao7').innerText = ''
+        document.getElementById('butao8').innerText = ''
+        document.getElementById('butao9').innerText = ''
+        contador = 0
+        exe = 0
+
+
+        jogo++
+
+
+    }
